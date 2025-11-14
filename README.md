@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://Compocube.github.io/myproject/)
+- [Публичная страница на GitHub Pages](https://Compocube.github.io/my-project/)
